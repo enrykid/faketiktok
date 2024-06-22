@@ -1,0 +1,9 @@
+*{
+    box-sizing: border-box;
+}
+
+.cajas{
+    border-style: solid;
+    border-color: #FF266E;
+    height: 30vh;
+}
